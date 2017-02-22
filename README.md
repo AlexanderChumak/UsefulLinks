@@ -2,9 +2,9 @@
 Ссылки на статьи, книги, блоги
 
 Ports-And-Adapters / Hexagonal Architecture:
-http://www.dossier-andreas.net/software_architecture/ports_and_adapters.html
-http://alistair.cockburn.us/Hexagonal+architecture
-http://codingcanvas.com/hexagonal-architecture/
+* http://www.dossier-andreas.net/software_architecture/ports_and_adapters.html
+* http://alistair.cockburn.us/Hexagonal+architecture
+* http://codingcanvas.com/hexagonal-architecture/
 
 
 Развитие архитектурных знаний:
@@ -16,14 +16,15 @@ http://codingcanvas.com/hexagonal-architecture/
 * http://www.enterpriseintegrationpatterns.com/
 
 
-CQRS
+CQRS:
 * CQRS Documents by Greg Young
 https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf
 * CQRS+ES https://msdn.microsoft.com/en-us/library/jj591577.aspx
 
 Pattern: Backends For Frontends:
-https://www.thoughtworks.com/insights/blog/bff-soundcloud
-http://samnewman.io/patterns/architectural/bff/
+* https://www.thoughtworks.com/insights/blog/bff-soundcloud
+* http://samnewman.io/patterns/architectural/bff/
 
-Охота на мифический MVC. Обзор, возвращение к первоисточникам и про то, как анализировать и выводить шаблоны самому
+MVC и его друзь:
+* Охота на мифический MVC. Обзор, возвращение к первоисточникам и про то, как анализировать и выводить шаблоны самому
 https://habrahabr.ru/post/321050/
