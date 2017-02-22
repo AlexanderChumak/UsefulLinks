@@ -17,9 +17,9 @@ http://codingcanvas.com/hexagonal-architecture/
 
 
 CQRS
-CQRS Documents by Greg Young
+* CQRS Documents by Greg Young
 https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf
-CQRS+ES https://msdn.microsoft.com/en-us/library/jj591577.aspx
+* CQRS+ES https://msdn.microsoft.com/en-us/library/jj591577.aspx
 
 Pattern: Backends For Frontends:
 https://www.thoughtworks.com/insights/blog/bff-soundcloud
