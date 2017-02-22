@@ -25,6 +25,6 @@ Pattern: Backends For Frontends:
 * https://www.thoughtworks.com/insights/blog/bff-soundcloud
 * http://samnewman.io/patterns/architectural/bff/
 
-MVC и его друзь:
+MVC и его друзья:
 * Охота на мифический MVC. Обзор, возвращение к первоисточникам и про то, как анализировать и выводить шаблоны самому
 https://habrahabr.ru/post/321050/
